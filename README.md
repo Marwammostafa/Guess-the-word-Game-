@@ -13,7 +13,7 @@ Designed for Educational purpose, this game makes learning fun by mixing coding 
 2. The game will randomly select a word.
 3. You guess letters one by one.
 4. You win if you guess the full word before your attempts run out!
-5. 
+   
 # Learning Value
 
 This project helps students learn:
